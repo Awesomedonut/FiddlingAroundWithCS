@@ -1,6 +1,4 @@
-# c# basics
-
-## essence of c#
+## Essence of c#
 - syntactically approachable to cpp and java programmers
   - semicolons as newline terminators
   - curly braces to group blocks of code that r in the same scope
@@ -76,11 +74,3 @@
 - JITed code exhibits native performance
 - CLR ensures runtime type safety
 - BCL includes general purpose libraries and app framework functionality
-
-# visual studio
-
-# project vs solution
-- project is contained within a solution
-- solution is a container for one or more related projects, along with build information, VS window settings, and any misc files that aren't included within a specific project
-- if a solution contains only 1 project, it's p simple bc there will only be 1 executable program
-  - in this case they just share a name and location
