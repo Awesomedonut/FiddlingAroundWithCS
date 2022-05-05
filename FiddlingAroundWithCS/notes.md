@@ -1,4 +1,4 @@
-# c# basics
+# C# basics
 
 ## essence of c#
 - syntactically approachable to cpp and java programmers
