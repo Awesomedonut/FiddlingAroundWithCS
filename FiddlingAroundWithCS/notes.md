@@ -79,7 +79,7 @@
 
 # visual studio
 
-# project vs solution
+## project vs solution
 - project is contained within a solution
 - solution is a container for one or more related projects, along with build information, VS window settings, and any misc files that aren't included within a specific project
 - if a solution contains only 1 project, it's p simple bc there will only be 1 executable program
