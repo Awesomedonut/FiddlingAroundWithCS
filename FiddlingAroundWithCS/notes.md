@@ -84,3 +84,16 @@
 - solution is a container for one or more related projects, along with build information, VS window settings, and any misc files that aren't included within a specific project
 - if a solution contains only 1 project, it's p simple bc there will only be 1 executable program
   - in this case they just share a name and location
+
+# some c# programming details
+
+## functions
+- naming convention: no space, cap first letter (pascal/camel case)
+  - ex: FarenheitToCelsius
+- a
+
+## debugging
+- VS has an op debugger
+- use debug configuration
+- full power of debugger cannot be used in release config
+- breakpoint is stop sign for code, u can only set breakpoints on executable code
